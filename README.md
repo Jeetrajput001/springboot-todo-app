@@ -29,5 +29,5 @@ A simple and responsive Todo List web application built with **Java Spring Boot*
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/springboot-todo-app.git
+git clone https://https://github.com/Jeetrajput001/springboot-todo-app.git
 cd springboot-todo-app
